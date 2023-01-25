@@ -1,0 +1,35 @@
+.header-light {
+    background-color: #fff;
+}
+
+.header-dark {
+    background-color: #252525;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 15px;
+}
+
+#logo {
+    max-height: 35px;
+}
+
+.btn-light {
+    border-radius: 50%;
+    border: 1px solid #747272;
+}
+
+button img{
+    max-height: 35px;
+    display: flex;
+    padding: 7px;
+}
+
+.btn-dark {
+    background-color: #252525;
+    border: 1px solid #fff;
+    border-radius: 50%;
+}
