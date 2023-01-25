@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/agencia-design/static/css/main.519f7ed9.css",
-    "main.js": "/agencia-design/static/js/main.8dad4f5e.js",
+    "main.js": "/agencia-design/static/js/main.4ac1b487.js",
     "static/media/banner.png": "/agencia-design/static/media/banner.24792d13f8ae0f0c8e94.png",
     "static/media/dribble.png": "/agencia-design/static/media/dribble.5bd157081aafd8bf91df.png",
     "static/media/moon.png": "/agencia-design/static/media/moon.aa0519968d404fb6f25a.png",
@@ -13,10 +13,10 @@
     "static/media/linkedin.png": "/agencia-design/static/media/linkedin.6892b3ae328c7a1e055f.png",
     "index.html": "/agencia-design/index.html",
     "main.519f7ed9.css.map": "/agencia-design/static/css/main.519f7ed9.css.map",
-    "main.8dad4f5e.js.map": "/agencia-design/static/js/main.8dad4f5e.js.map"
+    "main.4ac1b487.js.map": "/agencia-design/static/js/main.4ac1b487.js.map"
   },
   "entrypoints": [
     "static/css/main.519f7ed9.css",
-    "static/js/main.8dad4f5e.js"
+    "static/js/main.4ac1b487.js"
   ]
 }
