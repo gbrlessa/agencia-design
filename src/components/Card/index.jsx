@@ -2,12 +2,12 @@ import './style.css';
 
 export default function Card(props) {
     return (
-        <div className='card-dark'>
-            <p className='card-p-dark'>{props.periodo}</p>
-            <h3 className='card-h3-dark' id="titulo">{props.titulo}</h3>
-            <p className='card-p-dark' id="empresa">{props.empresa}</p>
+        <div className={props.temaEscuro ? "card-dark" : "card-light"}>
+            <p className={props.temaEscuro ? "card-p-dark" : "card-p-light"}>{props.periodo}</p>
+            <h3 className={props.temaEscuro ? "card-h3-dark" : "card-h3-light"} id="titulo">{props.titulo}</h3>
+            <p className={props.temaEscuro ? "card-p-dark" : "card-p-light"} id="empresa">{props.empresa}</p>
 
-            <p className='card-p-dark' id="texto">{props.texto}</p>
+            <p className={props.temaEscuro ? "card-p-dark" : "card-p-light"} id="texto">{props.texto}</p>
         </div>
     );
 }
